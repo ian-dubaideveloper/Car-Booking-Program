@@ -131,7 +131,7 @@ root = Tk()
 b = Application(root)
 
 # resolution of the window
-root.geometry("1366x768")
+root.geometry("1366x769")
 
 # preventing the resize feature
 root.resizable(False, False)
